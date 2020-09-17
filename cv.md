@@ -63,6 +63,11 @@ Teaching BA (English and German Language and Literature)
 Vinnytsia English Specialized School #1, 1987 – 1997
 
 ### Courses  
+WEB UI development basics
 <https://courses.prometheus.org.ua:18090/cert/c84b3d5b044d4be0bf6061592de2d29f>  
+
+Software testing basics
 <https://courses.prometheus.org.ua:18090/cert/c04930c7894b412fb9013fe196827266>  
+
+CS50
 <https://courses.prometheus.org.ua:18090/cert/b43261df84124ca782886eeefccdaf21>  
