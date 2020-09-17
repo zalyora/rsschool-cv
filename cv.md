@@ -20,32 +20,17 @@ telegram: @zalyora
 **Office Manager**  
 November 2017 - April 2019  
 *BlockSoftLab, Ukraine* 
-+ Editing, clarifying and proofreading technical documentation from/into foreign languages
-+ Creating presentations of products and services, introducing them to clients
-+ Drafting reports, minute’s correspondence, document amending
-+ Customer support and communication
-+ Managing content for social media
-+ Creating and managing events
-+ Smart Contracts testing
 
 **Communications/Account manager**  
 May 2017 - Aug 2017  
 *Nekrasov Producing Center, Ukraine* 
-+ Creating presentations of events-to-be and introducing them to clients
-+ Managing all preparations in organising events; providing solutions to all unpredictable problems arising in the process of event-organisation
-+ Drafting reports, minute’s correspondence, document amending
-+ Screening of telephone calls and taking messages
 
 **Freelance Translator/Proofreader**  
 2007 - Present  
-Editing, clarifying and proofreading from/into foreign languages
 
 **Translator/ SW Localization Specialist**  
 Nov 2006 – Dec  2007  
 *InnoVinn, Ukraine*
-+ Translation and localization of the Network Monitoring System software (resource files) and documentation into English
-+ Editing, clarifying and proofreading of the translated resource files, help files and documents
-+ Tools: WinTransRC, Resource localizer, MS Word
 
 **Lecturer**  
 *Vinnytsia State Pedagogical University*  
