@@ -32,13 +32,13 @@ May 2017 - Aug 2017
 Nov 2006 – Dec  2007  
 *InnoVinn, Ukraine*
 
-**Lecturer**  
-*Vinnytsia State Pedagogical University*  
+**English and German Teacher at Foreign Languages Department**  
 November 2006 - August 2010  
-English and German Teacher at Foreign Languages Department
+*Vinnytsia State Pedagogical University*
 
+**Laboratory assistant at Foreign Languages Department**  
 September 2005 - November 2006  
-Laboratory assistant at Foreign Languages Department
+*Vinnytsia State Pedagogical University*
 
 ### Education
 Vinnytsia State Pedagogical University, 2002 - 2003  
